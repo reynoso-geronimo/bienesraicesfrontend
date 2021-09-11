@@ -30,7 +30,7 @@ const Iconos = ({ wc, estacionamiento, habitaciones }) => {
     }
   `)
 
-  console.log(iconos)
+ 
 
   const imagenesiconos = iconos.edges
 
